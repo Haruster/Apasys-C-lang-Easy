@@ -6,7 +6,7 @@ struct list { //list라는 구조체를 정의한다. (list는 변수가 아니�
 };
 
 int main(void) {
-    struct list st1 = {'Apasys', 20}; 
+    struct list st1 = {'Nephael', 20}; 
 
     printf("구조체 list의 크기는 %d이다. \n", sizeof(struct list));
     printf("구조체 객체 st1의 크기는 %d이다. \n", sizeof(st1));
